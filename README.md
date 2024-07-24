@@ -8,7 +8,8 @@
 - 🤔 I'm looking for help with placements in product-based companies.
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sridhararivu/)
+<br />
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sridhararivu/) 
 - 😄 Pronouns: Techie
 
 ### I code in
