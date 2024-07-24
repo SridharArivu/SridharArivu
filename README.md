@@ -3,13 +3,13 @@
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 <!-- - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                  -->
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DSA <br />
 <!-- - 👯 I’m looking to collaborate on ML/AI -->
-- 🤔 I'm looking for help with placements in product-based companies.
-- 💬 Ask me about Tech
+- 🤔 I'm looking for help with placements in product-based companies. <br />
+- 💬 Ask me about Tech <br />
 - 📫 How to reach me :
 <br />
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sridhararivu/)
+[(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sridhararivu/)
 
 
 - 😄 Pronouns: Techie
