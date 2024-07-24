@@ -7,10 +7,13 @@
 <!-- - 👯 I’m looking to collaborate on ML/AI -->
 - 🤔 I'm looking for help with placements in product-based companies. <br />
 - 💬 Ask me about Tech <br />
-- 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sridhararivu)
-
+- 📫 How to reach me: <br />
+  <a href="https://www.linkedin.com/in/sridhararivu/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <br />
 - 😄 Pronouns: Techie
+
 
 
 ### I code in
